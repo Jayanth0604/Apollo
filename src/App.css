@@ -1,0 +1,498 @@
+.appointment {
+  float: left;
+  width: 100%;
+  background-image:
+  linear-gradient(to left, rgba(7, 81, 219, 0.623),rgba(7, 93, 150, 0.445)),url(/public/assets/image/bg-girl-01.jpg);
+  background-size: 100%;
+}
+.appointment1 {
+  float: left;
+  width: 70%;
+ 
+}
+img.logo {
+  margin-left: 5.4em;
+  position: relative;
+  top: 5em;
+}
+.appointment2 h3 {
+  text-align: center;
+  text-transform: uppercase;
+  font-family: poppins;
+  font-size: 16px;
+  color: white;
+}
+.appointment2 {
+  float: right;
+  width: 22%;
+  border: solid 1px #0D82A1;
+  margin-top: 10.5em;
+  margin-right: 5em;
+  background-color: #0D82A1;
+  border-radius: 0.999em;
+  margin-bottom: 1em;
+  font-family: 'Poppins';
+}
+.appointment1 h3 {
+  font-size: 18px;
+  text-transform: capitalize;
+  font-family: 'Poppins';
+  margin-left: 5em;
+  color: #80AAB4;
+  margin-top: 6em;
+}
+.appointment1 h1 {
+  font-family: poppins;
+  width: 72%;
+  font-size: 44px;
+  margin-left: 3em;
+  text-transform: capitalize;
+  color:white;
+}
+.appointment1 p {
+  font-family: poppins;
+  font-size: 14px;
+  font-weight: 400;
+  margin-left: 9em;
+  color:white;
+}
+input.input_appoint {
+  width: 80%;
+  padding: 0.6em;
+  margin: 1.5em;
+  font-family: roboto;
+  text-transform: capitalize;
+}
+.appointment2 button {
+  padding: 0.5em;
+  width: 80%;
+  font-family: poppins;
+  font-size: 14px;
+  background-color: #A37B4B;
+  border: solid 1px #A37B4B;
+  color: white;
+  text-transform: uppercase;
+  margin-left: 2em;
+  margin-bottom: 1em;
+  cursor: pointer;
+}
+img.wave1 {
+  width: 100%;
+  position: relative;
+  bottom: 14em;
+}
+img.wave2 {
+  width: 100%;
+  position: relative;
+  bottom: 0em;
+}
+.content h1 {
+  text-align: center;
+  font-family: 'Roboto';
+  font-size: 44px;
+  font-weight: 400;
+}
+.content {
+  float: left;
+  width: 100%;
+  position: relative;
+  bottom: 10em;
+}
+.subjects {
+  float: left;
+  width: 100%;
+  font-family: 'Poppins';
+  font-weight: 300;
+  font-size: 16px;
+  margin-top: 1em;
+}
+.cardiology {
+  float: left;
+  width: 16.6%;
+  text-align: center;
+}
+.Nephrology {
+  float: left;
+  width: 16.6%;
+  text-align: center;
+}
+.Neurology {
+  float: left;
+  width: 16.6%;
+  text-align: center;
+}
+.Gastroenterology {
+  float: right;
+  width: 17.6%;
+  text-align: center;
+}
+.Oncology {
+  float: right;
+  width: 16.6%;
+  text-align: center;
+}
+.Orthopaedics {
+  float: right;
+  width: 15.6%;
+  text-align: center;
+}
+
+.pagecenter {
+  float: none;
+  margin: 0 auto;
+  max-width: 84%;
+}
+.subjects h3 {
+  width: 66%;
+  margin-left: 2.4em;
+  font-weight: 500;
+  
+}
+img.imgg {
+  cursor: pointer;
+}
+.Orthopaedics h3 {
+  margin-top: 1.1em;
+}
+
+
+.covid_safe {
+  float: left;
+  width: 100%;
+  font-family: 'Poppins';
+  margin-top: 2em;
+}
+.covid_safe h1 {
+  text-transform: capitalize;
+  font-size: 44px;
+  text-align: center;
+}
+.covid_safe p {
+  font-size: 15px;
+  font-weight: 400;
+  text-align: center;
+  width: 82%;
+  margin-left: 8em;
+  margin-top: -1em;
+}
+.safety {
+  float: left;
+  width: 100%;
+  margin-top: 2em;
+  text-align: center;
+  font-family: 'Poppins';
+}
+.sanitation {
+  float: left;
+  width: 33.3%;
+  margin: 1em;
+  border: solid 1px #F4FDFF;
+  background-color: #F4FDFF;
+  padding-top: 2em;
+  padding-bottom: 7em;
+}
+.socialdistance {
+  float: left;
+  width: 29.3%;
+  margin-right: 1em;
+  border: solid 1px #F4FDFF;
+  background-color: #F4FDFF;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  margin-top: 1em;
+}
+.facemask {
+  float: right;
+  width: 32.3%;
+  border: solid 1px #F4FDFF;
+  background-color: #F4FDFF;
+  padding-top: 2em;
+  margin-top: 1em;
+  padding-bottom: 7em;
+}
+.sanitation1 {
+  float: left;
+  width: 33.3%;
+  margin: 1em;
+  border: solid 1px #F4FDFF;
+  background-color: #F4FDFF;
+  padding-top: 2em;
+  padding-bottom: 6em;
+}
+.socialdistance1 {
+  float: left;
+  width: 29.3%;
+  margin-right: 1em;
+  border: solid 1px #F4FDFF;
+  background-color: #F4FDFF;
+  padding-top: 2em;
+  padding-bottom:4em;
+  margin-top: 1em;
+}
+.facemask1 {
+  float: right;
+  width: 32.3%;
+  border: solid 1px #F4FDFF;
+  background-color: #F4FDFF;
+  padding-top: 2em;
+  margin-top: 1em;
+  padding-bottom: 4em;
+}
+.sanitation h4 {
+  margin-top: 2em;
+}
+.safety p {
+  font-size: 13px;
+  width: 78%;
+  padding-left: 3em;
+}
+.pagecentre1 {
+  float: none;
+  margin: 0 auto;
+  max-width: 80%;
+}
+/* url(/public/assets/image/bg-girl-01.jpg) */
+.oncology {
+  float: left;
+  width: 100%;
+  font-family: 'Poppins';
+  background-image: url(/public/assets/image/bariatric-bg.jpg);
+  background-repeat: no-repeat;
+  background-size: 135% 100%;
+  padding-bottom: 8em;
+  margin-top: -5em;
+}
+.oncology1 {
+  float: right;
+  width: 43%;
+}
+.oncology1 h1 {
+  text-align: left;
+  margin-top: 4em;
+}
+.oncology p {
+  width: 79%;
+  font-size: 15px;
+}
+.cardiologyy {
+  float: left;
+  width: 100%;
+  background-image: url(/public/assets/image/cardiology-bg.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  padding-bottom: 4em;
+}
+.cardiologyy1 {
+  float: left;
+  width: 50%;
+  margin-left: 7em;
+  margin-top: 6em;
+  font-family: 'Poppins';
+  
+}
+.cardiologyy1 h1 {
+  text-align: left;
+ 
+}
+.cardiologyy p {
+  width: 70%;
+  font-size: 15px;
+  text-align: left;
+}
+.orthopedic {
+  float: left;
+  width: 100%;
+  font-family: 'Poppins';
+  background-image: url(/public/assets/image/ortho-bg.jpg);
+  background-repeat: no-repeat;
+  background-size: 135% 100%;
+  padding-bottom: 12em;
+  
+}
+.orthopedic1 {
+  float: right;
+  width: 43%;
+}
+.orthopedic1 h1 {
+  text-align: left;
+  margin-top: 4em;
+}
+.orthopedic1 p {
+  width: 79%;
+  font-size: 15px;
+}
+.robot {
+  float: left;
+  width: 100%;
+  background-image: url(/public/assets/image/sec_2.png);
+  padding-bottom: 3em;
+  background-size: 137% 108%;
+  margin-top: -0.01em;
+}
+.robot1 {
+  float: left;
+  width: 50%;
+  margin-left: 7em;
+  margin-top: 6em;
+  font-family: 'Poppins';
+  
+}
+.robot1 h1 {
+  text-align: left;
+  color: #AAAAAA;
+}
+.robot1 p {
+  width: 66%;
+  text-align: left;
+  font-size: 15px;
+  color:#ADADAD;
+}
+.Nephrologyy {
+  float: left;
+  width: 100%;
+  font-family: 'Poppins';
+  background-image: url(/public/assets/image/sec_1.png);
+  background-repeat: no-repeat;
+  background-size: 110% 110%;
+  
+}
+.Nephrologyy1 {
+  float: right;
+  width: 43%;
+}
+.Nephrologyy1 h1 {
+  text-align: left;
+  margin-top: 4em;
+}
+.Nephrologyy1 p {
+  width: 74%;
+  font-size: 15px;
+  margin-bottom: 3em;
+  font-size: 15px;
+}
+.nerologyy {
+  float: left;
+  width: 100%;
+ background-image: url(/public/assets/image/sec_7.png);
+ background-repeat: no-repeat;
+ background-size: 140% 120%;
+ padding-bottom: 5em;
+}
+.nerologyy1 {
+  float: left;
+  width: 40%;
+  margin-top: 6em;
+  font-family: 'Poppins';
+  margin-left: 7em;
+  font-size: 15px;
+}
+.nerologyy1 p {
+  width: 83%;
+}
+.urologyy {
+  float: left;
+  width: 100%;
+  font-family: 'Poppins';
+  background-image: url(/public/assets/image/sec_6.png);
+  background-repeat: no-repeat;
+  background-size: 102% 100%;
+
+  
+}
+.urologyy1 {
+  float: right;
+  width: 43%;
+}
+.urologyy1 h1 {
+  text-align: left;
+  margin-top: 2em;
+}
+.urologyy1 p {
+  width: 78%;
+  font-size: 15px;
+}
+.gass {
+  float: left;
+  width: 100%;
+  background-image: url(/public/assets/image/sec_9.png);
+  padding-bottom: 3em;
+  background-size: 110% 110%;
+
+}
+.gass1 {
+  float: left;
+  width: 50%;
+  margin-left: 7em;
+  margin-top: 6em;
+  font-family: 'Poppins';
+  
+}
+.gass h1 {
+  text-align: left;
+
+}
+.gass p {
+  width: 68%;
+  text-align: left;
+ font-size: 15px;
+}
+.baraitic {
+  float: left;
+  width: 100%;
+  font-family: 'Poppins';
+  background-image: url(/public/assets/image/sec_8.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  
+}
+.baraitic1 {
+  float: right;
+  width: 38%;
+  margin-left: 1em;
+}
+.baraitic h1 {
+  text-align: left;
+  margin-top: 4em;
+}
+.baraitic p {
+  width: 76%;
+  margin-bottom: 3em;
+  font-size: 15px;
+}
+
+.pulmonary {
+  float: left;
+  width: 100%;
+  background-image: url(/public/assets/image/sec_10.png);
+  padding-bottom: 1em;
+  background-size: 110% 110%;
+  margin-top: -0.01em;
+
+}
+.pulmonary1 {
+  float: left;
+  width: 50%;
+  margin-left: 7em;
+  margin-top: 6em;
+  font-family: 'Poppins';
+  
+}
+.pulmonary h1 {
+  text-align: left;
+
+}
+.pulmonary p {
+  width: 68%;
+  text-align: left;
+ font-size: 15px;
+}
+.footer {
+  float: left;
+  width: 100%;
+  text-align: center;
+  font-family: 'Poppins';
+  font-size: 14px;
+  background-image:
+  linear-gradient(to left, rgba(27, 167, 202, 0.623),rgba(30, 153, 235, 0.4)), url(/public/assets/image/bg-desk.jpg);
+  color: white;
+}
